@@ -24,4 +24,4 @@
 <h2>🖼️ Screenshots</h2>
 <p>Here are some screenshots of the Weather API project in action:</p>
 
-![image alt]()
+![image alt](https://github.com/yashmalavade2002/Weather_Api/blob/76227f28bf2eb7b26643c48c7cc99faac47ce4c6/img.jpg)
