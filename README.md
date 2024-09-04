@@ -2,7 +2,7 @@
 
 
 <h2>🌐 Live Demo</h2>
-<p>Check out the live version of the project <a href="https://yashmalavade2002.github.io/Weather-App/">here</a>.</p>
+<p>Check out the live version of the project <a href="https://yashmalavade2002.github.io/Weather_Api/">here</a>.</p>
 <h2>🚀 Project Overview</h2>
 
 <p><strong>Weather API Project</strong> is a simple and intuitive web application that provides real-time weather information for any city around the world. The project utilizes a public weather API to fetch and display current weather conditions, including temperature, humidity, and weather descriptions, all through a user-friendly interface.</p>
@@ -24,4 +24,4 @@
 <h2>🖼️ Screenshots</h2>
 <p>Here are some screenshots of the Weather API project in action:</p>
 
-![image alt](https://github.com/yashmalavade2002/Weather-App/blob/0bcafc7d4ae0198e0ea58452adc42b37364b29ed/weather%20_api.jpg)
+![image alt]()
