@@ -25,3 +25,11 @@
 <p>Here are some screenshots of the Weather API project in action:</p>
 
 ![image alt](https://github.com/yashmalavade2002/Weather_Api/blob/76227f28bf2eb7b26643c48c7cc99faac47ce4c6/img.jpg)
+
+# 📧 Contact
+
+For any inquiries, feel free to reach out:
+
+- **GitHub**: [yashmalavade2002](https://github.com/yashmalavade2002)
+- **Email**: [yashmalvade90@gmail.com](yashmalvade90@gmail.com)
+
