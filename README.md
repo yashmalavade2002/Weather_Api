@@ -31,5 +31,5 @@
 For any inquiries, feel free to reach out:
 
 - **GitHub**: [yashmalavade2002](https://github.com/yashmalavade2002)
-- **Email**: [yashmalvade90@gmail.com](yashmalvade90@gmail.com)
+- **Email**: [yashmalvade90@gmail.com]
 
